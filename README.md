@@ -12,7 +12,7 @@ curl -O https://pjreddie.com/media/files/mnist_train.csv
 curl -O https://pjreddie.com/media/files/mnist_test.csv
 ```
 
-##Run
+## Run
 Use virtualenv `anaconda` and run script:
 
 `python3 bin/run.py`
